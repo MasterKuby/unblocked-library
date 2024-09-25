@@ -1,2 +1,2 @@
-# unblocked-library
-A library of unblocked websites with games, unblockers and more.
+# The Unblocked Library
+**A library of unblocked websites with games, unblockers and more.**
