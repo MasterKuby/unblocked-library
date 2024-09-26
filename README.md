@@ -1,4 +1,4 @@
-# [The Unblocked Library](https://masterkuby.github.io/unblocked-library/)
+# [The Unblocked Library](unblockedlibrary.hopto.org)
 **A library of unblocked websites with games, unblockers and more.**
 
-**[LINK](https://masterkuby.github.io/unblocked-library/)**
+**[LINK](unblockedlibrary.hopto.org)**
